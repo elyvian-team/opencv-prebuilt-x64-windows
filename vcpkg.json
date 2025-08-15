@@ -1,0 +1,23 @@
+{
+  "name": "opencv-prebuilt-x64-windows",
+  "version-string": "4.11.0-x64-windows-elyvian",
+  "builtin-baseline": "dcf6516bc3c7a763c68a2d0a1d850150223c693a",
+  "dependencies": [
+    {
+      "name": "opencv4",
+      "default-features": false,
+      "features": [
+        "contrib",
+        "ipp",
+        "tbb",
+        "opencl",
+        "intrinsics",
+        "msmf",
+        "jpeg",
+        "png",
+        "tiff",
+        "webp"
+      ]
+    }
+  ]
+}
