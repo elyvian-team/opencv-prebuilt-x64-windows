@@ -16,7 +16,8 @@
         "jpeg",
         "png",
         "tiff",
-        "webp"
+        "webp",
+	"dnn"
       ]
     }
   ]
